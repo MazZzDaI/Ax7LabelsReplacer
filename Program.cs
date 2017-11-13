@@ -1,4 +1,10 @@
-﻿using System;
+﻿/// <summary>
+/// Dynamics 365 for Finance and Operations labels replacer
+/// Application looking for specified label's relations in xRefs and then replace all entries with new label
+/// </summary>
+/// MazZzDaI, v1.01-ax7, 13.11.2017
+
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.IO;
