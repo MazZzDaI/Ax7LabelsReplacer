@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ax7LabelsReplacer", "Ax7LabelsReplacer\Ax7LabelsReplacer.csproj", "{26172273-EEEA-4AC2-A73E-BEE2EE2CD5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26172273-EEEA-4AC2-A73E-BEE2EE2CD5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26172273-EEEA-4AC2-A73E-BEE2EE2CD5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26172273-EEEA-4AC2-A73E-BEE2EE2CD5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26172273-EEEA-4AC2-A73E-BEE2EE2CD5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://anegistfs.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ax7LabelsReplacer\\Ax7LabelsReplacer.csproj
+		SccProjectName1 = Ax7LabelsReplacer
+		SccLocalPath1 = Ax7LabelsReplacer
+	EndGlobalSection
+EndGlobal
