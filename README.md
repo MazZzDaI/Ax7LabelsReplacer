@@ -1,5 +1,5 @@
-# Ax7LabelsReplacer
-Application looking for specified label's relations in xRefs and then replace all entries with new label
+# Bulk labels replacer for Dynamics 365 for Operations
+Application replacing specified label with meaningful value and updating source code using xRefs
 
 Algorithm is following:
 1. Specify "Model store folder path" and "SQL connection string"
